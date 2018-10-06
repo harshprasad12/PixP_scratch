@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/16677931/connecting-to-gitlab-repositories-on-android-studio

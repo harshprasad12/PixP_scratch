@@ -1,0 +1,7 @@
+Hiding the Activity bar/Full screen activity:
+https://stackoverflow.com/questions/2868047/fullscreen-activity-in-android
+
+Add an Action bar below:
+https://stackoverflow.com/questions/31798801/android-widget-toolbar-cannot-be-converted-to-android-support-v7-widget-toolbar
+https://stackoverflow.com/questions/39318625/can-i-put-an-action-bar-at-the-bottom-in-android
+
